@@ -1,0 +1,62 @@
+body{
+    font-family: 'ABeeZee',sans-serif;
+}
+.primary-bg{
+    /*background: #2196f3!important;*/
+    background-image: linear-gradient( 111.6deg,  rgba(174,68,223,1) 27.3%, rgba(246,135,135,1) 112.7% ) !important;
+}
+
+.btn-primary,
+.bg-primary{
+    background-image: linear-gradient( 111.6deg,  rgba(174,68,223,1) 27.3%, rgba(246,135,135,1) 112.7% ) !important;
+}
+
+.bg-secondary{
+    background-image: radial-gradient( circle 972.6px at 10% 20%,  rgba(243,0,75,1) 0%, rgba(255,93,75,1) 90% ) !important;
+}
+
+.comment-footer{
+    background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(234,249,249,0.67) 0.1%, rgba(239,249,251,0.63) 90.1% ) !important;
+}
+
+.searchbar{
+   background-image: linear-gradient( 112.4deg,  rgba(169,28,115,1) 21.6%, rgba(219,112,54,1) 92.2% ) !important;
+}
+
+.fa{
+    margin: 5px;
+}
+
+.posted-by{
+    font-size: 0.9rem;
+}
+
+.post{
+    font-size: 0.65rem;
+}
+
+.banner-background{
+    clip-path: polygon(50% 0%, 85% 0, 100% 0, 100% 91%, 80% 97%, 49% 93%, 18% 97%, 0 87%, 0 0);
+}
+
+.post-btn{
+    height: 32px!important;
+}
+
+.input-text{
+    background: #fff !important;
+    color: #000 !important;
+}
+
+.content-btn{
+    background-color: #fff !important;
+    margin: 0px 3px 0px 0px !important;
+    border: 1px solid #efe9e9;
+    box-shadow: 0px 0px 5px 2px #efe9e9; 
+}
+
+.view{
+    min-height: 50px !important;
+    height: 50px !important;
+    vertical-align: center;
+}
